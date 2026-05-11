@@ -1,29 +1,30 @@
 # Software Engineering Pipeline
 
-This repository is used to practice GitHub Actions and CI/CD concepts.
+Aquest repositori serveix per aprendre a utilitzar GitHub Actions i els conceptes de CI/CD.
 
-## Laboratory objective
+## Objectiu del laboratori
 
-The objective of this laboratory is to create a basic continuous integration pipeline using GitHub Actions.
+L'objectiu d'aquest laboratori és crear una pipeline bàsica d'integració contínua amb GitHub Actions.
 
-The pipeline will run automatically when:
+La pipeline s'executarà automàticament quan:
 
-- A push is made to the repository.
-- A pull request is opened or updated.
+- Es faci un push al repositori.
+- S'obri o s'actualitzi una pull request.
 
-## Team contribution plan
+## Pla de contribució de l'equip
 
-Each team member contributes to a different part of the repository:
+Cada membre de l'equip contribueix a una part diferent del repositori:
 
-1. Repository setup and initial documentation.
-2. Source code implementation.
-3. Lint configuration and npm scripts.
-4. Automated tests.
-5. GitHub Actions lint job.
-6. GitHub Actions test job and final documentation.
+1. Configuració del repositori i documentació inicial.
+2. Implementació del codi font.
+3. Configuració del linter.
+4. Tests automàtics.
+5. Job de lint a GitHub Actions.
+6. Job de tests a GitHub Actions i documentació final.
 
-## CI/CD concept
+## Concepte CI/CD
 
-Continuous Integration allows the team to automatically check the project every time new code is pushed or a pull request is created.
+La integració contínua permet a l'equip verificar el projecte automàticament cada vegada 
+que es puja codi nou o s'obre una pull request.
 
-This helps detect errors earlier and improves software quality.
+Això ajuda a detectar errors abans i millora la qualitat del programari.
