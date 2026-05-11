@@ -21,3 +21,10 @@ Cada membre de l'equip contribueix a una part diferent del repositori:
 4. Tests automàtics.
 5. Job de lint a GitHub Actions.
 6. Job de tests a GitHub Actions i documentació final.
+
+## GitHub Actions CI Pipeline
+
+The repository includes a GitHub Actions workflow located at:
+
+```text
+.github/workflows/ci.yml
